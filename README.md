@@ -1,9 +1,8 @@
 
-# vendingMachineVisualizer
+
 Vending Machine Visualizer - Theory of Computation
 =======
 
-# Vending Machine (DFA Visualizer)
 
 This project is a DFA (Deterministic Finite Automaton) visualizer tailored specifically for modeling the functionality of a vending machine. DFA is a mathematical model used to represent finite states and transitions between those states in a system.
 
