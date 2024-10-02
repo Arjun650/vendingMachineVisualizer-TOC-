@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # vendingMachineVisualizer
 Vending Machine Visualizer - Theory of Computation
 =======
@@ -11,8 +11,33 @@ In this context, the vending machine is represented as a DFA, where each state r
 
 The purpose of this visualizer is to provide a clear and intuitive representation of how a vending machine operates, allowing users to understand its functionality through visualizations of states and transitions.
 
-## Screenshots
+Tech Stack
+Frontend: HTML, CSS, JavaScript
+Visualization: D3.js (or similar, if applicable)
+Backend (if applicable): Node.js
+Deployment: Vercel
+How to Use
+Visit the Live Demo: Check out the project live at Vercel (insert your Vercel deployment link).
+Select a Product: Choose from a list of available products.
+Insert Coins: Simulate inserting coins by interacting with the machine.
+Watch the State Changes: The visualizer will show how the machine changes states as it processes your inputs.
+Installation
+To run this project locally:
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Clone the repository:
+
+
+git clone https://github.com/yourusername/vending-machine-visualizer.git
+Navigate to the project directory:
+
+cd vending-machine-visualizer
+Install dependencies (if applicable):
+
+npm install
+Run the project locally:
+
+npm start
+Visit the project at http://localhost:3000.
+
 
 >>>>>>> 0e51da1 (final ui)
